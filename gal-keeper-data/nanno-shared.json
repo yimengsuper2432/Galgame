@@ -1845,9 +1845,15 @@
         "海豹社",
         "Galgame"
       ],
-      "playTimelines": [],
+      "playTimelines": [
+        [
+          1749813963,
+          1749813967,
+          5
+        ]
+      ],
       "expectedPlayHours": 0,
-      "lastPlay": 0,
+      "lastPlay": 1749813967000,
       "createDate": 1749810443769,
       "releaseDate": 1758844800000,
       "rating": 8,
