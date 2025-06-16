@@ -306,7 +306,7 @@
       "id": "757ee39b-78d8-48b7-8e67-db1f643227f2",
       "vndbId": "v46241",
       "bgmId": "448558",
-      "updateDate": 1740897363.547,
+      "updateDate": 1750084985.108,
       "alias": [
         "食糧天使"
       ],
@@ -340,10 +340,15 @@
           1742222542,
           1742223089,
           492
+        ],
+        [
+          1750085134,
+          1750085151,
+          13
         ]
       ],
       "expectedPlayHours": 0,
-      "lastPlay": 1742223089000,
+      "lastPlay": 1750085151000,
       "createDate": 1740897363548,
       "releaseDate": 1690675200000,
       "rating": 5,
@@ -1116,7 +1121,7 @@
     {
       "id": "ac4e5f5b-a96d-47b7-bd37-071723348b00",
       "vndbId": "v37016",
-      "updateDate": 1741336042.488,
+      "updateDate": 1750085120.817,
       "alias": [
         "Dreamlike Love with Seira",
         "ご主人様、セイラに夢みたいないちゃラブご奉仕させていただけますか",
@@ -1171,7 +1176,7 @@
       ],
       "links": [],
       "cover": "https://t.vndb.org/cv/80/89680.jpg",
-      "title": "Goshujin-sama, Seira ni Yume Mitai na Icha Love Gohoushi Sasete Itadakemasu ka"
+      "title": "为主人献上圣罗的甜蜜"
     },
     {
       "id": "dc8f4aaf-d46e-4195-be24-23fb746c1430",
@@ -1872,6 +1877,164 @@
       "links": [],
       "cover": "https://lain.bgm.tv/pic/cover/l/dc/88/518278_I4448.jpg",
       "title": "甜蜜女友3"
+    },
+    {
+      "id": "3aead38b-929d-4aa1-a4c4-387cfa88a598",
+      "vndbId": "v10594",
+      "bgmId": "402654",
+      "updateDate": 1750084896.393,
+      "alias": [
+        "夢見る銀貨"
+      ],
+      "description": "幼なじみの少女・銀花は、夏祭りの夜、\r\n“神隠し”にあって消えてしまった。\r\n\r\nあれから５年。\r\n\r\n高校生になった青羽流星は、フェリーに揺られ、\r\nふらりとひめ島へ帰ってきた。\r\n\r\n確かめたかった。銀花はあれから、どうなってしまったのか？\r\n\r\nもしかしたら、何事もなかったように家へ帰っていて、\r\n島の高校に通いながら普通に暮らしているんじゃないか……。\r\n\r\nそんな淡い期待は裏切られる。\r\nあの夜からずっと、銀花は行方知れずのまま。\r\n\r\n失意に沈み、再び島を離れようとする流星だったが、\r\nそこで不思議な再会をする。\r\n\r\n目の前に現れたのは、\r\nあの頃の姿のままの少女――ギンカ。\r\n\r\n『おかえりなさい』\r\n\r\n自分の名前さえ忘れてしまったギンカ。\r\n\r\n覚えているのは“リュウセイ”の名前と、\r\n彼を好きだという恋心だけ。\r\n\r\n今までどこにいたのか？\r\nなぜ、幼い姿のままなのか？\r\n\r\nおだやかに時間の流れる小さな島で、\r\n“神隠し”から帰ってきた幼なじみの少女と過ごす、\r\nおとぎ話のような夏休み。",
+      "tags": [
+        "松本文紀",
+        "纯爱",
+        "时间旅行",
+        "白毛",
+        "剧情",
+        "废萌",
+        "萝莉",
+        "AVG",
+        "枕",
+        "游戏",
+        "民俗",
+        "悬疑",
+        "奇幻",
+        "幼驯染",
+        "汉化",
+        "STEAM",
+        "治愈",
+        "ADV",
+        "视觉小说",
+        "短篇",
+        "PC",
+        "GAL",
+        "2023",
+        "ゆさの",
+        "長谷川育美",
+        "松本文纪",
+        "紺野アスタ",
+        "全年龄",
+        "Galgame",
+        "FrontWing"
+      ],
+      "playTimelines": [],
+      "expectedPlayHours": 0,
+      "lastPlay": 0,
+      "createDate": 1750084896393,
+      "releaseDate": 1698278400000,
+      "rating": 5.9,
+      "developer": "studio WALK",
+      "images": [],
+      "links": [],
+      "cover": "https://lain.bgm.tv/pic/cover/l/19/43/402654_uo8T1.jpg",
+      "title": "GINKA"
+    },
+    {
+      "id": "05b1d6d9-8e3b-4e15-9579-700152912a40",
+      "vndbId": "v27448",
+      "bgmId": "297264",
+      "updateDate": 1750084914.252,
+      "alias": [
+        "亚托莉 -我挚爱的时光-",
+        "ATRI -My Dear Moments-",
+        "Атри: Мои дорогие моменты",
+        "ATRI -Những Hồi Ức Thân Thương Của Tôi-",
+        "亞托莉 -我摯愛的時光-"
+      ],
+      "description": "在不远的未来，海平面原因不明地急速上升，导致了地表多数都沉入海中。\r\n\r\n小时候因为事故而失去一条腿的少年・斑鸠夏生，厌倦了都市的生活，移居到了海边的乡村小镇。曾经身为海洋地质学家的祖母留给他的、就只有船、潜水艇还有债务。\r\n\r\n夏生为了取回“失去的未来”，与迷之讨债人凯瑟琳一起，潜海前往据说保存着祖母遗产的海底仓库。\r\n\r\n在那里，他遇到了一位沉睡在如同棺材一般装置中不可思议的少女“亚托莉”。她是一位构造精密到与人类别无二致，而又丰富感情的机器人。\r\n\r\n从海底被打捞起来的亚托莉如是说到。\r\n\r\n“我想完成主人留给我的最后的命令。在此之前，我会成为夏生先生的腿！”\r\n\r\n在一个逐渐沉入海中的平和小镇，少年和机器人少女的难忘夏日就这么开始了。\r\n\r\n-----------------------------------------------------------------------------------------\r\n\r\n原因不明の海面上昇によって、 地表の多くが海に沈んだ近未来。\r\n\r\n幼い頃の事故によって片足を失った少年・斑鳩夏生（いかるがなつき）は、\r\n都市での暮らしに見切りを付け、 海辺の田舎町へと移り住んだ。\r\n\r\n身よりのない彼に遺されたのは、\r\n海洋地質学者だった祖母の船と潜水艇、 そして借金。\r\n\r\n夏生は“失った未来”を取り戻すため、 謎の借金取り・キャサリンと共に、\r\n祖母の遺産が眠るという海底の倉庫を目指して潜る。\r\n\r\nそこで見つけたのは、\r\n棺のような装置の中で眠る不思議な少女――アトリ。\r\n\r\n彼女は、 人間と見紛うほどに精巧で感情豊かなロボットだった。\r\n海底からサルベージされたアトリは言う。\r\n\r\n「マスターが残した最後の命令を果たしたいんです。\r\nそれまで、 わたしが夏生さんの足になります！」\r\n\r\n海に沈みゆく穏やかな町で、\r\n少年とロボットの少女の、 忘れられない夏が始まる――。",
+      "tags": [
+        "视觉小说",
+        "ATRI",
+        "萝卜子",
+        "Front-Wing×枕",
+        "恋爱",
+        "剧情",
+        "萝莉",
+        "AVG",
+        "汉化",
+        "科幻",
+        "短篇",
+        "GAL",
+        "催泪",
+        "纯爱",
+        "治愈",
+        "基4",
+        "ゆさの",
+        "ADV",
+        "机器人",
+        "2020",
+        "STEAM",
+        "PC",
+        "SCA-自",
+        "紺野アスタ",
+        "ANIPLEX.EXE",
+        "松本文纪",
+        "FrontWing",
+        "全年龄",
+        "枕",
+        "Galgame"
+      ],
+      "playTimelines": [],
+      "expectedPlayHours": 13.5,
+      "lastPlay": 0,
+      "createDate": 1750084914252,
+      "releaseDate": 1592524800000,
+      "rating": 7.2,
+      "developer": "Makura",
+      "images": [
+        "https://t.vndb.org/sf/03/137403.jpg",
+        "https://t.vndb.org/sf/04/137404.jpg",
+        "https://t.vndb.org/sf/05/137405.jpg",
+        "https://t.vndb.org/sf/10/137410.jpg",
+        "https://t.vndb.org/sf/11/137411.jpg",
+        "https://t.vndb.org/sf/60/137560.jpg",
+        "https://t.vndb.org/sf/63/137563.jpg",
+        "https://t.vndb.org/sf/64/137564.jpg",
+        "https://t.vndb.org/sf/01/183501.jpg",
+        "https://t.vndb.org/sf/02/183502.jpg"
+      ],
+      "links": [
+        {
+          "name": "enwiki",
+          "url": "https://en.wikipedia.org/wiki/Atri:_My_Dear_Moments"
+        },
+        {
+          "name": "jawiki",
+          "url": "https://ja.wikipedia.org/wiki/ATRI_-My_Dear_Moments-"
+        },
+        {
+          "name": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q97275837"
+        },
+        {
+          "name": "mobygames",
+          "url": "https://www.mobygames.com/game/atri-my-dear-moments"
+        },
+        {
+          "name": "gamefaqs_game",
+          "url": "https://gamefaqs.gamespot.com/-/284629-"
+        },
+        {
+          "name": "howlongtobeat",
+          "url": "http://howlongtobeat.com/game.php?id=80386"
+        },
+        {
+          "name": "igdb_game",
+          "url": "https://www.igdb.com/games/atri-my-dear-moments"
+        },
+        {
+          "name": "pcgamingwiki",
+          "url": "https://www.pcgamingwiki.com/wiki/ATRI_-My_Dear_Moments-"
+        },
+        {
+          "name": "lutris",
+          "url": "https://lutris.net/games/atri-my-dear-moments-"
+        }
+      ],
+      "cover": "https://lain.bgm.tv/pic/cover/l/46/f8/297264_Llz6w.jpg",
+      "title": "ATRI -My Dear Moments-"
     }
   ]
 }
