@@ -2090,6 +2090,62 @@
       "links": [],
       "cover": "https://lain.bgm.tv/pic/cover/l/dc/88/518278_P2e8e.jpg",
       "title": "アマカノ3"
+    },
+    {
+      "id": "e4247435-a862-45aa-9ecb-ab42058e376a",
+      "vndbId": "v417",
+      "bgmId": "16481",
+      "updateDate": 1751964392.066,
+      "alias": [
+        "EDEN -最終戦争少女伝説-",
+        "Sekien no Inganock - Inganock of the Brightest Flame",
+        "赫炎のインガノック -What a beautiful people-",
+        "赫炎的印加诺克"
+      ],
+      "description": "夏休みに入ってすぐ、学園の連中とともに\r\n御六島（みろくじま）への９日間の旅…\r\n\r\nそれは平穏無事に終わるはずの旅\r\n\r\n\r\nしかし…\r\n\r\n\r\n首は飛び回り\r\n\r\n\r\nクラスメイトはレイプされそうになり\r\n\r\n\r\nしまいには島を×××されて\r\n\r\n\r\nそして死ぬ\r\nいつかの負い目に　さいなまれながら\r\n",
+      "tags": [
+        "唯一屎",
+        "游戏",
+        "老物",
+        "Galgame",
+        "有生之年",
+        "爪白ニワトリ",
+        "狂气",
+        "PC",
+        "ADV",
+        "同人"
+      ],
+      "playTimelines": [],
+      "expectedPlayHours": 21,
+      "lastPlay": 0,
+      "createDate": 1751964392066,
+      "releaseDate": 1325376000000,
+      "rating": 6.9,
+      "developer": "Liar-soft",
+      "images": [
+        "https://t.vndb.org/sf/51/3851.jpg",
+        "https://t.vndb.org/sf/52/3852.jpg",
+        "https://t.vndb.org/sf/54/3854.jpg",
+        "https://t.vndb.org/sf/55/3855.jpg",
+        "https://t.vndb.org/sf/90/6090.jpg",
+        "https://t.vndb.org/sf/91/6091.jpg",
+        "https://t.vndb.org/sf/92/6092.jpg",
+        "https://t.vndb.org/sf/93/6093.jpg",
+        "https://t.vndb.org/sf/94/6094.jpg",
+        "https://t.vndb.org/sf/95/6095.jpg"
+      ],
+      "links": [
+        {
+          "name": "jawiki",
+          "url": "https://ja.wikipedia.org/wiki/赫炎のインガノック"
+        },
+        {
+          "name": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q11636036"
+        }
+      ],
+      "cover": "https://lain.bgm.tv/pic/cover/l/a6/42/16481_Ay533.jpg",
+      "title": "EDEN -最終戦争少女伝説-"
     }
   ]
 }
