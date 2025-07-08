@@ -3,7 +3,9 @@
     "4687058b-fa3d-4f0c-a3c3-5981496e3788",
     "56ac6b52-9bbf-48bd-810c-b51f471a1815",
     "17173afd-c1f6-4548-b551-bccc8e2f28aa",
-    "2900863d-9221-4ac0-8edc-d0202592e09d"
+    "2900863d-9221-4ac0-8edc-d0202592e09d",
+    "e4247435-a862-45aa-9ecb-ab42058e376a",
+    "fd1ca091-c669-42be-a6d9-a2b020c8b24f"
   ],
   "data": [
     {
@@ -822,7 +824,7 @@
     {
       "id": "f7a28a97-b053-480c-880c-51ac9a99d0c6",
       "vndbId": "v26999",
-      "updateDate": 1741320966.974,
+      "updateDate": 1751995937.413,
       "alias": [
         "Salthe",
         "サルテ"
@@ -895,10 +897,15 @@
           1742815226,
           1742819724,
           4273
+        ],
+        [
+          1751996195,
+          1751996277,
+          81
         ]
       ],
       "expectedPlayHours": 8.4,
-      "lastPlay": 1742819724000,
+      "lastPlay": 1751996277000,
       "createDate": 1741320884722,
       "releaseDate": 1580428800000,
       "rating": 6.7,
@@ -2040,112 +2047,88 @@
       "title": "ATRI -My Dear Moments-"
     },
     {
-      "id": "fd1ca091-c669-42be-a6d9-a2b020c8b24f",
-      "bgmId": "518278",
-      "updateDate": 1751964310.851,
+      "id": "30d9e92c-4106-4b53-9fa0-1781f48ba7c6",
+      "vndbId": "v47172",
+      "bgmId": "448682",
+      "updateDate": 1751996141.033,
       "alias": [
-        "甜蜜女友3"
+        "The Hungry Lamb: Traveling in the Late Ming Dynasty",
+        "飢えた子羊",
+        "饿殍：明末千里行",
+        "餓殍：明末千里行"
       ],
-      "description": "『お迎えに上がりましたー。」のんびりとした田舎町・日和山温泉に暮らし、御所院学園に通うごく普通の男子学生である主人公。その日常は、祖母の養女だという金髪碧眼美少女の突然の訪問で一変する。聞けば祖母が体調を崩し入院してしまったため、彼女が営む学生療の運営を手伝ってほしいという。\r\n主人公は祖母と困っている少女を助けるべく、その頼みを引き受ける。しかし、連れてこられた楽々浦\r\n寮は女子療で・・....！？：\r\nさまざまな女の子たちと一つ屋根の下、寮に馴染むために奮闘するうち、彼女たちの夢や本音を知っていく主人公。それぞれの想いを乗せて、夏の温泉街を舞台に、青春の物語が幕を開ける。\r\nあざらしそふと最新作『アマカノ3』の発売が決定！お馴染みのスタッフが集結し、甘い恋愛&ラブラブ濃厚エッチというアマカノシリーズの醍醐味が更にパワーアップ！シリーズファンはもちろん、はじめての人も楽しめる作品になりそうだ♪",
+      "description": "明末崇祯五年（1632年），盗匪良和同伙接了人牙子的委托。\r\n良需将四名小女孩从华州城运至洛阳城。\r\n路途千里，一行人将走过华州、阌乡、陕州、最终抵达洛阳。\r\n起初，良以为被他运送的女孩会被卖到富人家里作养女。\r\n行至途中，名为“穗”的女孩告知良此次运送的”真相“。\r\n原来，买走女孩的是一头修行千年的豚妖。\r\n豚妖以食女童为乐，每年寿辰便从陕地搜罗女童食用，穗的姐姐正是因此而死。\r\n穗希望良能放弃运送，最好能与她一同刺杀豚妖，帮她姐姐和数年来丧生的女孩们复仇！\r\n良不完全信穗的话，毕竟穗的身上似乎埋藏着很多谜团。\r\n良将在旅途中搜集情报，查明真相，并作出他的选择。",
       "tags": [
-        "女仆",
-        "2等",
-        "2025-09",
-        "黄油",
-        "アマカノ3",
-        "甜作",
-        "龍岳来",
-        "アマカノ",
-        "原画超棒",
-        "日系",
-        "萌えゲー",
-        "十周年纪念",
-        "末柄里恵",
-        "校园",
-        "GAL",
-        "伊藤静",
-        "明羽杏子",
-        "纯爱",
-        "恋爱",
-        "游戏",
-        "長谷川育美",
-        "废萌",
-        "2025",
-        "ピロ水",
-        "R18",
-        "PC",
-        "あざらしそふと",
-        "甜蜜女友3",
-        "海豹社",
-        "Galgame"
-      ],
-      "playTimelines": [],
-      "expectedPlayHours": 0,
-      "lastPlay": 0,
-      "createDate": 1751964310851,
-      "releaseDate": 1758844800000,
-      "rating": 8,
-      "developer": "",
-      "images": [],
-      "links": [],
-      "cover": "https://lain.bgm.tv/pic/cover/l/dc/88/518278_P2e8e.jpg",
-      "title": "アマカノ3"
-    },
-    {
-      "id": "e4247435-a862-45aa-9ecb-ab42058e376a",
-      "vndbId": "v417",
-      "bgmId": "16481",
-      "updateDate": 1751964392.066,
-      "alias": [
-        "EDEN -最終戦争少女伝説-",
-        "Sekien no Inganock - Inganock of the Brightest Flame",
-        "赫炎のインガノック -What a beautiful people-",
-        "赫炎的印加诺克"
-      ],
-      "description": "夏休みに入ってすぐ、学園の連中とともに\r\n御六島（みろくじま）への９日間の旅…\r\n\r\nそれは平穏無事に終わるはずの旅\r\n\r\n\r\nしかし…\r\n\r\n\r\n首は飛び回り\r\n\r\n\r\nクラスメイトはレイプされそうになり\r\n\r\n\r\nしまいには島を×××されて\r\n\r\n\r\nそして死ぬ\r\nいつかの負い目に　さいなまれながら\r\n",
-      "tags": [
-        "唯一屎",
-        "游戏",
-        "老物",
-        "Galgame",
-        "有生之年",
-        "爪白ニワトリ",
-        "狂气",
-        "PC",
+        "国产Galgame",
+        "里程碑",
+        "匕首",
+        "剧情",
+        "同人",
+        "嵇零",
+        "中国",
+        "NS",
+        "辱华",
+        "国g",
+        "猎奇",
         "ADV",
-        "同人"
+        "Android",
+        "短篇",
+        "粪作",
+        "历史的尘埃",
+        "游戏",
+        "独立游戏",
+        "STEAM",
+        "GAL",
+        "2024",
+        "公路片",
+        "PC",
+        "萝莉",
+        "AVG",
+        "零创游戏",
+        "全年龄",
+        "历史",
+        "Galgame",
+        "国产"
       ],
       "playTimelines": [],
-      "expectedPlayHours": 21,
+      "expectedPlayHours": 9.3,
       "lastPlay": 0,
-      "createDate": 1751964392066,
-      "releaseDate": 1325376000000,
-      "rating": 6.9,
-      "developer": "Liar-soft",
+      "createDate": 1751995976039,
+      "releaseDate": 1713830400000,
+      "rating": 6.2,
+      "developer": "Ling Chuang Youxi",
       "images": [
-        "https://t.vndb.org/sf/51/3851.jpg",
-        "https://t.vndb.org/sf/52/3852.jpg",
-        "https://t.vndb.org/sf/54/3854.jpg",
-        "https://t.vndb.org/sf/55/3855.jpg",
-        "https://t.vndb.org/sf/90/6090.jpg",
-        "https://t.vndb.org/sf/91/6091.jpg",
-        "https://t.vndb.org/sf/92/6092.jpg",
-        "https://t.vndb.org/sf/93/6093.jpg",
-        "https://t.vndb.org/sf/94/6094.jpg",
-        "https://t.vndb.org/sf/95/6095.jpg"
+        "https://t.vndb.org/sf/05/187205.jpg",
+        "https://t.vndb.org/sf/06/187206.jpg",
+        "https://t.vndb.org/sf/71/194671.jpg",
+        "https://t.vndb.org/sf/87/196287.jpg",
+        "https://t.vndb.org/sf/88/196288.jpg",
+        "https://t.vndb.org/sf/90/196290.jpg",
+        "https://t.vndb.org/sf/92/196292.jpg",
+        "https://t.vndb.org/sf/94/196294.jpg",
+        "https://t.vndb.org/sf/62/196762.jpg",
+        "https://t.vndb.org/sf/63/196763.jpg"
       ],
       "links": [
         {
-          "name": "jawiki",
-          "url": "https://ja.wikipedia.org/wiki/赫炎のインガノック"
+          "name": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q125636766"
         },
         {
-          "name": "wikidata",
-          "url": "https://www.wikidata.org/wiki/Q11636036"
+          "name": "gamefaqs_game",
+          "url": "https://gamefaqs.gamespot.com/-/428808-"
+        },
+        {
+          "name": "howlongtobeat",
+          "url": "http://howlongtobeat.com/game.php?id=149392"
+        },
+        {
+          "name": "igdb_game",
+          "url": "https://www.igdb.com/games/the-hungry-lamb-traveling-in-the-late-ming-dynasty"
         }
       ],
-      "cover": "https://lain.bgm.tv/pic/cover/l/a6/42/16481_Ay533.jpg",
-      "title": "EDEN -最終戦争少女伝説-"
+      "cover": "https://lain.bgm.tv/pic/cover/l/ff/61/448682_r6d8H.jpg",
+      "title": "饿殍：明末千里行"
     }
   ]
 }
