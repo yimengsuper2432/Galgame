@@ -2028,9 +2028,15 @@
         "Galgame",
         "国产"
       ],
-      "playTimelines": [],
+      "playTimelines": [
+        [
+          1753437905,
+          1753438174,
+          262
+        ]
+      ],
       "expectedPlayHours": 9.3,
-      "lastPlay": 0,
+      "lastPlay": 1753438174000,
       "createDate": 1751995976039,
       "releaseDate": 1713830400000,
       "rating": 6.2,
