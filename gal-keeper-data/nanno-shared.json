@@ -11,7 +11,10 @@
     "cf1ebcb3-b4a2-4377-a392-6c1e9e47275a",
     "fd1765a2-e3bd-48c2-8fd9-4b0aa9207ec7",
     "7d8382ce-f61f-4e3b-9283-fbeebbeb9841",
-    "56f386c5-6f19-4472-b1a8-bc38ab535b7b"
+    "56f386c5-6f19-4472-b1a8-bc38ab535b7b",
+    "56f33a5a-10a9-4d7f-94d1-6d18843c9e3a",
+    "5cbe4b47-d90e-4265-99c6-947be54dc57c",
+    "13d7e607-1fd9-42f0-bc9a-eaa20071d934"
   ],
   "data": [
     {
@@ -2206,6 +2209,102 @@
       "links": [],
       "cover": "https://lain.bgm.tv/pic/cover/l/c1/50/485045_unuet.jpg",
       "title": "甜蜜夏日+"
+    },
+    {
+      "id": "e3329b71-d8ea-47c3-a224-b6557cb15291",
+      "vndbId": "v20424",
+      "updateDate": 1755174952.92,
+      "alias": [
+        "Summer Pockets"
+      ],
+      "description": "Summer Pockets is set on an isolated, rural and peaceful island on the Seto Inland Sea called Torishirojima, which has a population of about 2,000 people. The protagonist is Hairi Takahara, a young man not native to the island. Hairi grew up in an urban setting, but after an unpleasant incident he uses the recent death of his grandmother as an excuse to come to the island to take care of her estate sale. Once there, he gets to know four girls who are the focus of the story. They include Shiroha Naruse, who forgot her summer vacation; Ao Sorakado, who is pursuing the legends of the island; Kamome Kushima, a high-class girl looking for a pirate ship; and Tsumugi Wenders, a younger girl trying to find herself.\n\n[From [url=https://en.wikipedia.org/wiki/Summer_Pockets]Wikipedia[/url]]",
+      "tags": [
+        "Time Loop",
+        "Island",
+        "Summer",
+        "Insert Songs",
+        "Pure Love Story",
+        "ADV",
+        "Protagonist with a Face",
+        "One True End",
+        "Family",
+        "Music Recollection",
+        "Time Travel",
+        "Map Movement",
+        "Male Protagonist",
+        "Multiple Endings",
+        "Unlockable Routes",
+        "Group of Friends",
+        "Twitter",
+        "Sprite Viewer",
+        "Heisei Era",
+        "Achievements",
+        "Slice of Life",
+        "Varied Title Screens",
+        "Branching Plot",
+        "Foolish Friend",
+        "Nakige",
+        "Parting Ending",
+        "White Haired Heroine",
+        "Comedy",
+        "Early Branching Plot",
+        "Meaningless Choices"
+      ],
+      "playTimelines": [],
+      "expectedPlayHours": 52.5,
+      "lastPlay": 0,
+      "createDate": 1755174952920,
+      "releaseDate": 1530230400000,
+      "rating": 8.5,
+      "developer": "Key",
+      "images": [
+        "https://t.vndb.org/sf/74/111674.jpg",
+        "https://t.vndb.org/sf/76/111676.jpg",
+        "https://t.vndb.org/sf/77/111677.jpg",
+        "https://t.vndb.org/sf/54/127754.jpg",
+        "https://t.vndb.org/sf/55/127755.jpg",
+        "https://t.vndb.org/sf/57/127757.jpg",
+        "https://t.vndb.org/sf/65/176665.jpg",
+        "https://t.vndb.org/sf/62/208962.jpg",
+        "https://t.vndb.org/sf/63/208963.jpg",
+        "https://t.vndb.org/sf/64/208964.jpg"
+      ],
+      "links": [
+        {
+          "name": "enwiki",
+          "url": "https://en.wikipedia.org/wiki/Summer_Pockets"
+        },
+        {
+          "name": "jawiki",
+          "url": "https://ja.wikipedia.org/wiki/Summer_Pockets"
+        },
+        {
+          "name": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q28002085"
+        },
+        {
+          "name": "mobygames",
+          "url": "https://www.mobygames.com/game/summer-pockets"
+        },
+        {
+          "name": "vgmdb_product",
+          "url": "https://vgmdb.net/product/6285"
+        },
+        {
+          "name": "howlongtobeat",
+          "url": "http://howlongtobeat.com/game.php?id=64279"
+        },
+        {
+          "name": "igdb_game",
+          "url": "https://www.igdb.com/games/summer-pockets"
+        },
+        {
+          "name": "lutris",
+          "url": "https://lutris.net/games/summer-pockets"
+        }
+      ],
+      "cover": "https://t.vndb.org/cv/30/85430.jpg",
+      "title": "Summer Pockets"
     }
   ]
 }
