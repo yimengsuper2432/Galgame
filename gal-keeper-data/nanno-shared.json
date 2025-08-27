@@ -2432,7 +2432,7 @@
       "id": "edcc5cbe-daef-48da-a5cc-45b92d79c77c",
       "vndbId": "v38037",
       "bgmId": "398107",
-      "updateDate": 1755662060.944,
+      "updateDate": 1756312594.468,
       "alias": [
         "废村少女 ～妖异魅惑的笼之乡～",
         "廃村少女 ～妖し惑ひの籠の郷～"
@@ -2470,9 +2470,15 @@
         "拔作",
         "Galgame"
       ],
-      "playTimelines": [],
+      "playTimelines": [
+        [
+          1756312509,
+          1756313022,
+          488
+        ]
+      ],
       "expectedPlayHours": 22.2,
-      "lastPlay": 0,
+      "lastPlay": 1756313022000,
       "createDate": 1755180401071,
       "releaseDate": 1671753600000,
       "rating": 6.8,
