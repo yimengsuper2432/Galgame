@@ -2646,6 +2646,79 @@
       "links": [],
       "cover": "https://lain.bgm.tv/pic/cover/l/0e/49/523497_F4aG4.jpg",
       "title": "廃村少女［弐］ ～陰り誘う秘姫の匣～"
+    },
+    {
+      "id": "08f6fc02-7165-410d-afab-0a197a47cd90",
+      "vndbId": "v27449",
+      "updateDate": 1756373508.493,
+      "alias": [
+        "ハミダシクリエイティブ",
+        "하미다시 크리에이티브",
+        "常轨脱离Creative"
+      ],
+      "description": "在六月底，四季停滞不前。\n\n众所周知，泉智弘性格孤僻，他安静地在教室角落度过他的一天……或者说应该是这样。\n\n恭喜你当选！现在已经决定你是下一个学生会主席！\n\n在学校的倡议下，进行了通过抽签的选举。桃广成了赢得奖品的幸运家伙！\n\n突然被推到了聚光灯下，他一下子成了全校的谈资。无法退缩，他在顾问的帮助下开始寻找同伴。\n\n然而，他的顾问提名的候选人包括他的同班同学加野，学弟明美，甚至是他自己的小妹妹日和，而他们竟然都没有来学校！？\n\n在这混乱之中，连来自不明去向的前学生会会长潮也突然出现了！\n\n这是命运吗？这是不可避免吗？前所未有。无与伦比。我们新的（不）幸的学生会会长的战斗现在开始！\n\n[From the [url=https://madosoft.net/hamidashi/story]official website[/url]]",
+      "tags": [
+        "浪漫、男主角、学生会、御宅族主角、仅处女女主、不同的结尾曲、表弟配角、仅限主角发生性关系、学生会会长主角、学生会成员女主角、血缘兄妹、家庭、作家女主角、布罗肯女主角、主角的全妹妹女主角、御宅族女主角、多重结局、歌手女主角、声优女主角、设计故事、高中生主角、 蛰居族女主角、漫长的共同路线、高中生女主角、兄妹恋情、ADV、极（不）幸运的主角、射精选择、多重学分卷、令和时代"
+      ],
+      "playTimelines": [],
+      "expectedPlayHours": 46,
+      "lastPlay": 0,
+      "createDate": 1756373222288,
+      "releaseDate": 1600992000000,
+      "rating": 7.8,
+      "developer": "Madosoft",
+      "images": [
+        "https://t.vndb.org/sf/66/140966.jpg",
+        "https://t.vndb.org/sf/67/140967.jpg",
+        "https://t.vndb.org/sf/68/140968.jpg",
+        "https://t.vndb.org/sf/69/140969.jpg",
+        "https://t.vndb.org/sf/70/140970.jpg",
+        "https://t.vndb.org/sf/71/140971.jpg",
+        "https://t.vndb.org/sf/72/140972.jpg",
+        "https://t.vndb.org/sf/73/140973.jpg",
+        "https://t.vndb.org/sf/74/140974.jpg",
+        "https://t.vndb.org/sf/75/140975.jpg"
+      ],
+      "links": [
+        {
+          "name": "enwiki",
+          "url": "https://en.wikipedia.org/wiki/Hamidashi_Creative"
+        },
+        {
+          "name": "jawiki",
+          "url": "https://ja.wikipedia.org/wiki/ハミダシクリエイティブ"
+        },
+        {
+          "name": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q109362373"
+        },
+        {
+          "name": "gamefaqs_game",
+          "url": "https://gamefaqs.gamespot.com/-/291829-"
+        },
+        {
+          "name": "gamefaqs_game",
+          "url": "https://gamefaqs.gamespot.com/-/314006-"
+        },
+        {
+          "name": "gamefaqs_game",
+          "url": "https://gamefaqs.gamespot.com/-/314007-"
+        },
+        {
+          "name": "howlongtobeat",
+          "url": "http://howlongtobeat.com/game.php?id=144356"
+        },
+        {
+          "name": "igdb_game",
+          "url": "https://www.igdb.com/games/hamidashi-creative"
+        },
+        {
+          "name": "lutris",
+          "url": "https://lutris.net/games/hamidashi-creative"
+        }
+      ],
+      "cover": "https://t.vndb.org/cv/27/81627.jpg",
+      "title": "常轨脱离Creative"
     }
   ]
 }
