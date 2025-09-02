@@ -15,7 +15,8 @@
     "56f33a5a-10a9-4d7f-94d1-6d18843c9e3a",
     "5cbe4b47-d90e-4265-99c6-947be54dc57c",
     "13d7e607-1fd9-42f0-bc9a-eaa20071d934",
-    "d97a5929-66d3-4447-a095-0cbc7445638e"
+    "d97a5929-66d3-4447-a095-0cbc7445638e",
+    "35f0c475-1893-458e-9718-9ee36aada91a"
   ],
   "data": [
     {
@@ -2769,6 +2770,48 @@
       ],
       "cover": "https://t.vndb.org/cv/27/81627.jpg",
       "title": "常轨脱离Creative"
+    },
+    {
+      "id": "197ad397-c7e0-4441-8a09-d4c8ae91e52c",
+      "vndbId": "v56650",
+      "updateDate": 1756738534.049,
+      "alias": [
+        "ライムライト・レモネードジャム"
+      ],
+      "description": "音乐、朋友和爱情。\n从遇见她的那一天起，世界就开始闪耀——\n\n冲波幸隆擅长贝斯，但从未属于过特定的乐队。\n他没有目标，也没有其他想做的事情。\n在漫无目的的音乐追求中，他偶然发现了一场街头表演，彻底改变了他单调的日常生活。\n\n站着一个女孩，Harumi Ena，用她完全的业余技巧，以歌唱和吉他弹奏的独奏表演挑战自己。\n\n幸隆目睹她街头表演的那一刻，他的平凡世界再次开始闪耀。\n\n[Translated from [url=https://www.yuzu-soft.com/products/lllj/index.html#story]official website[/url]]",
+      "tags": [
+        "高中生主角、音乐环境、乐器主、高中生女主、主角青梅竹马女主、歌手女主、主角表弟女主、器乐女主、Ojousama女主、转学生女主、音乐家女主、表弟、社交网络服务、打工、女牛仔"
+      ],
+      "playTimelines": [
+        [
+          1756738540,
+          1756738579,
+          38
+        ]
+      ],
+      "expectedPlayHours": 0,
+      "lastPlay": 1756738579000,
+      "createDate": 1756738455771,
+      "releaseDate": 1758844800000,
+      "rating": 7,
+      "developer": "Yuzusoft",
+      "images": [
+        "https://t.vndb.org/sf/31/225931.jpg",
+        "https://t.vndb.org/sf/32/225932.jpg",
+        "https://t.vndb.org/sf/33/225933.jpg"
+      ],
+      "links": [
+        {
+          "name": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q134717512"
+        },
+        {
+          "name": "gamefaqs_game",
+          "url": "https://gamefaqs.gamespot.com/-/540367-"
+        }
+      ],
+      "cover": "https://t.vndb.org/cv/06/109906.jpg",
+      "title": "LimeLight Lemonade Jam 体验版"
     }
   ]
 }
