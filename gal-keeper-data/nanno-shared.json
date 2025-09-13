@@ -2885,6 +2885,24 @@
       "links": [],
       "cover": "https://lain.bgm.tv/pic/cover/l/fe/0b/513940_6T7zn.jpg",
       "title": "KANADE"
+    },
+    {
+      "id": "d8d80bae-e9dc-48ae-a6b5-dc09bafecd9a",
+      "updateDate": 1757727382.23,
+      "alias": [],
+      "description": "",
+      "tags": [],
+      "playTimelines": [],
+      "expectedPlayHours": 0,
+      "lastPlay": 0,
+      "createDate": 1757727382230,
+      "releaseDate": 0,
+      "rating": 0,
+      "developer": "",
+      "images": [],
+      "links": [],
+      "cover": "",
+      "title": "SiNiSistar2_1.1.0v"
     }
   ]
 }
