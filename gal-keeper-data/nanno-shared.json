@@ -16,7 +16,8 @@
     "5cbe4b47-d90e-4265-99c6-947be54dc57c",
     "13d7e607-1fd9-42f0-bc9a-eaa20071d934",
     "d97a5929-66d3-4447-a095-0cbc7445638e",
-    "35f0c475-1893-458e-9718-9ee36aada91a"
+    "35f0c475-1893-458e-9718-9ee36aada91a",
+    "d8d80bae-e9dc-48ae-a6b5-dc09bafecd9a"
   ],
   "data": [
     {
@@ -1266,10 +1267,35 @@
           1757172965,
           1757173225,
           255
+        ],
+        [
+          1757736826,
+          1757737702,
+          697
+        ],
+        [
+          1757737761,
+          1757741775,
+          3936
+        ],
+        [
+          1757781634,
+          1757782939,
+          1288
+        ],
+        [
+          1757818435,
+          1757819880,
+          1427
+        ],
+        [
+          1757827701,
+          1757832223,
+          4467
         ]
       ],
       "expectedPlayHours": 36.8,
-      "lastPlay": 1757173225000,
+      "lastPlay": 1757832223000,
       "createDate": 1741335188123,
       "releaseDate": 1682640000000,
       "rating": 8.6,
@@ -2885,24 +2911,6 @@
       "links": [],
       "cover": "https://lain.bgm.tv/pic/cover/l/fe/0b/513940_6T7zn.jpg",
       "title": "KANADE"
-    },
-    {
-      "id": "d8d80bae-e9dc-48ae-a6b5-dc09bafecd9a",
-      "updateDate": 1757727382.23,
-      "alias": [],
-      "description": "",
-      "tags": [],
-      "playTimelines": [],
-      "expectedPlayHours": 0,
-      "lastPlay": 0,
-      "createDate": 1757727382230,
-      "releaseDate": 0,
-      "rating": 0,
-      "developer": "",
-      "images": [],
-      "links": [],
-      "cover": "",
-      "title": "SiNiSistar2_1.1.0v"
     }
   ]
 }
