@@ -1305,12 +1305,17 @@
         ],
         [
           1758206552,
-          1758207145,
-          584
+          1758207551,
+          929
+        ],
+        [
+          1758297231,
+          1758300762,
+          3492
         ]
       ],
       "expectedPlayHours": 36.8,
-      "lastPlay": 1758207145000,
+      "lastPlay": 1758300762000,
       "createDate": 1741335188123,
       "releaseDate": 1682640000000,
       "rating": 8.6,
@@ -2878,7 +2883,7 @@
       "id": "facc590c-49e0-46b7-9f69-ff9c0464eccc",
       "vndbId": "v1144",
       "bgmId": "513940",
-      "updateDate": 1757572179.217,
+      "updateDate": 1758295172.239,
       "alias": [
         "ちゅうちゅうナース"
       ],
@@ -2915,9 +2920,15 @@
         "FrontWing",
         "Galgame"
       ],
-      "playTimelines": [],
+      "playTimelines": [
+        [
+          1758295177,
+          1758296718,
+          1523
+        ]
+      ],
       "expectedPlayHours": 0,
-      "lastPlay": 0,
+      "lastPlay": 1758296718000,
       "createDate": 1757565595084,
       "releaseDate": 1749686400000,
       "rating": 5.5,
