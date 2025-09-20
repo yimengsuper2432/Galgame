@@ -1315,12 +1315,12 @@
         ],
         [
           1758362486,
-          1758363680,
-          1173
+          1758364267,
+          1567
         ]
       ],
       "expectedPlayHours": 36.8,
-      "lastPlay": 1758363680000,
+      "lastPlay": 1758364267000,
       "createDate": 1741335188123,
       "releaseDate": 1682640000000,
       "rating": 8.6,
@@ -2942,6 +2942,94 @@
       "links": [],
       "cover": "https://lain.bgm.tv/pic/cover/l/fe/0b/513940_6T7zn.jpg",
       "title": "KANADE"
+    },
+    {
+      "id": "67a564d1-a45a-4212-875d-9a667c9904dc",
+      "vndbId": "v1552",
+      "bgmId": "3306",
+      "updateDate": 1758364184.442,
+      "alias": [
+        "纯白交响曲",
+        "Mashiroiro Symphony HD -Love is Pure White-",
+        "ましろ色シンフォニー",
+        "純白交響曲"
+      ],
+      "description": "为人着想而爱操心的主人公·瓜生新吾。\r\n他所就读的学校将要和同一个地区的某名门女校合并。\r\n从10月起的半合并期间，新吾作为混合学习的选拔生的一员而开始在女校上学，在那里等待着他的是与个性丰富的少女们的邂逅、对男性的拒绝反应。\r\n新吾在结女学园与一位少女亲密起来，那之后不久，两个人恋上了。",
+      "tags": [
+        "ADV",
+        "甜",
+        "R18",
+        "校园",
+        "保住圭",
+        "おるごぅる",
+        "兄控",
+        "学姐",
+        "甜作",
+        "AVG",
+        "汉化",
+        "废萌",
+        "纯爱",
+        "天羽美羽",
+        "2009",
+        "调色板",
+        "妹",
+        "瓜生樱乃",
+        "萌妹",
+        "大小姐",
+        "濑名爱理",
+        "GAL",
+        "ぱれっと",
+        "PC",
+        "标准GAL",
+        "妹控",
+        "Palette",
+        "和泉つばす",
+        "纯白交响曲",
+        "Galgame"
+      ],
+      "playTimelines": [],
+      "expectedPlayHours": 35.1,
+      "lastPlay": 0,
+      "createDate": 1758364184442,
+      "releaseDate": 1256860800000,
+      "rating": 7.2,
+      "developer": "Palette",
+      "images": [
+        "https://t.vndb.org/sf/48/5548.jpg",
+        "https://t.vndb.org/sf/49/5549.jpg",
+        "https://t.vndb.org/sf/50/5550.jpg",
+        "https://t.vndb.org/sf/51/5551.jpg",
+        "https://t.vndb.org/sf/52/5552.jpg",
+        "https://t.vndb.org/sf/46/13746.jpg",
+        "https://t.vndb.org/sf/48/13748.jpg",
+        "https://t.vndb.org/sf/26/195126.jpg",
+        "https://t.vndb.org/sf/27/195127.jpg",
+        "https://t.vndb.org/sf/95/195195.jpg"
+      ],
+      "links": [
+        {
+          "name": "enwiki",
+          "url": "https://en.wikipedia.org/wiki/Mashiroiro_Symphony"
+        },
+        {
+          "name": "jawiki",
+          "url": "https://ja.wikipedia.org/wiki/ましろ色シンフォニー"
+        },
+        {
+          "name": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q1154641"
+        },
+        {
+          "name": "igdb_game",
+          "url": "https://www.igdb.com/games/mashiroiro-symphony"
+        },
+        {
+          "name": "lutris",
+          "url": "https://lutris.net/games/mashiroiro-symphony"
+        }
+      ],
+      "cover": "https://lain.bgm.tv/pic/cover/l/16/fc/3306_Z56g5.jpg",
+      "title": "ましろ色シンフォニー -Love is Pure White-"
     }
   ]
 }
