@@ -1811,7 +1811,7 @@
       "id": "d93abc4c-bdfc-47b9-85ff-eeae7f382335",
       "vndbId": "v16044",
       "bgmId": "113290",
-      "updateDate": 1747217025.675,
+      "updateDate": 1759838515.314,
       "alias": [
         "魔女的夜宴",
         "Sabbat of the Witch",
@@ -1850,9 +1850,20 @@
         "Galgame",
         "柚子社"
       ],
-      "playTimelines": [],
+      "playTimelines": [
+        [
+          1759838543,
+          1759838551,
+          6
+        ],
+        [
+          1759838554,
+          1759838675,
+          119
+        ]
+      ],
       "expectedPlayHours": 50,
-      "lastPlay": 0,
+      "lastPlay": 1759838675000,
       "createDate": 1747216992841,
       "releaseDate": 1424995200000,
       "rating": 7.2,
@@ -3050,12 +3061,12 @@
         ],
         [
           1759835453,
-          1759838296,
-          834
+          1759838464,
+          998
         ]
       ],
       "expectedPlayHours": 0,
-      "lastPlay": 1759838296000,
+      "lastPlay": 1759838464000,
       "createDate": 1757565595084,
       "releaseDate": 1749686400000,
       "rating": 5.5,
