@@ -1812,7 +1812,7 @@
       "id": "d93abc4c-bdfc-47b9-85ff-eeae7f382335",
       "vndbId": "v16044",
       "bgmId": "113290",
-      "updateDate": 1759840955.904,
+      "updateDate": 1760001870.595,
       "alias": [
         "魔女的夜宴",
         "Sabbat of the Witch",
@@ -1889,12 +1889,12 @@
         ],
         [
           1759997635,
-          1760001824,
-          4093
+          1760002425,
+          4627
         ]
       ],
       "expectedPlayHours": 50,
-      "lastPlay": 1760001824000,
+      "lastPlay": 1760002425000,
       "createDate": 1747216992841,
       "releaseDate": 1424995200000,
       "rating": 7.2,
