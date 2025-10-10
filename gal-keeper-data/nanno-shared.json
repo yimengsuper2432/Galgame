@@ -19,7 +19,8 @@
     "35f0c475-1893-458e-9718-9ee36aada91a",
     "d8d80bae-e9dc-48ae-a6b5-dc09bafecd9a",
     "d8c17b97-015d-45ee-b104-b472f3c3f241",
-    "4b13604d-80c0-4d7f-9e72-793059ede48b"
+    "4b13604d-80c0-4d7f-9e72-793059ede48b",
+    "ddb3e199-83c5-4f6f-9166-5284b4729a1c"
   ],
   "data": [
     {
@@ -3295,24 +3296,6 @@
       "links": [],
       "cover": "https://lain.bgm.tv/pic/cover/l/9e/48/493261_5myQc.jpg",
       "title": "SiNiSistar2"
-    },
-    {
-      "id": "ddb3e199-83c5-4f6f-9166-5284b4729a1c",
-      "updateDate": 1760093451.456,
-      "alias": [],
-      "description": "",
-      "tags": [],
-      "playTimelines": [],
-      "expectedPlayHours": 0,
-      "lastPlay": 0,
-      "createDate": 1760093451456,
-      "releaseDate": 0,
-      "rating": 0,
-      "developer": "",
-      "images": [],
-      "links": [],
-      "cover": "",
-      "title": "EroTavern"
     },
     {
       "id": "13f426a3-89f0-4064-b73a-8f934308fc5e",
