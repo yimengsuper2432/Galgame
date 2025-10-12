@@ -3071,12 +3071,12 @@
         ],
         [
           1760246177,
-          1760246717,
-          40
+          1760246907,
+          75
         ]
       ],
       "expectedPlayHours": 0,
-      "lastPlay": 1760246717000,
+      "lastPlay": 1760246907000,
       "createDate": 1756738455771,
       "releaseDate": 1758844800000,
       "rating": 7,
@@ -3396,9 +3396,15 @@
       "tags": [
         "太空， 宇宙飞船， 只有一个女主角， 怪兽， ADV， Nukige， 外星人女主角， 厨师主角， 传教士位置， 雇佣兵主角， 互动触摸游戏， 站立性爱， 单人口交， 日语配音（适用于非 OJLVN）、男主角、非日语配音"
       ],
-      "playTimelines": [],
+      "playTimelines": [
+        [
+          1760247023,
+          1760247341,
+          235
+        ]
+      ],
       "expectedPlayHours": 13.1,
-      "lastPlay": 0,
+      "lastPlay": 1760247341000,
       "createDate": 1760093537397,
       "releaseDate": 1734048000000,
       "rating": 7.2,
