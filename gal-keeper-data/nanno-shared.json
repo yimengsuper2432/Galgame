@@ -2010,7 +2010,7 @@
       "id": "61a0500d-3eac-438d-a58d-19d431f0c7c8",
       "vndbId": "v19073",
       "bgmId": "172612",
-      "updateDate": 1760709715.923,
+      "updateDate": 1760710632.872,
       "alias": [
         "千恋＊万花",
         "Senren＊Banka",
@@ -2148,12 +2148,12 @@
         ],
         [
           1760709724,
-          1760710092,
-          362
+          1760710691,
+          916
         ]
       ],
       "expectedPlayHours": 46.5,
-      "lastPlay": 1760710092000,
+      "lastPlay": 1760710691000,
       "createDate": 1747217008874,
       "releaseDate": 1469750400000,
       "rating": 6.9,
