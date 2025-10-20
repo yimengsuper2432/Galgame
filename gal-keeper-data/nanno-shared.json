@@ -3481,7 +3481,7 @@
       "id": "523868a7-9aa7-4944-869d-1a6c2b448e84",
       "vndbId": "v26414",
       "bgmId": "289599",
-      "updateDate": 1760955645.61,
+      "updateDate": 1760969387.627,
       "alias": [
         "星光咖啡馆与死神之蝶",
         "Café Stella and the Reapers' Butterflies",
@@ -3501,12 +3501,12 @@
         ],
         [
           1760963378,
-          1760969061,
-          5366
+          1760969835,
+          5715
         ]
       ],
       "expectedPlayHours": 40.6,
-      "lastPlay": 1760969061000,
+      "lastPlay": 1760969835000,
       "createDate": 1760922035630,
       "releaseDate": 1576800000000,
       "rating": 6.4,
