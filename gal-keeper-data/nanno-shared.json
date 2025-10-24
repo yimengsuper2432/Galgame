@@ -20,7 +20,8 @@
     "d8d80bae-e9dc-48ae-a6b5-dc09bafecd9a",
     "d8c17b97-015d-45ee-b104-b472f3c3f241",
     "4b13604d-80c0-4d7f-9e72-793059ede48b",
-    "ddb3e199-83c5-4f6f-9166-5284b4729a1c"
+    "ddb3e199-83c5-4f6f-9166-5284b4729a1c",
+    "197ad397-c7e0-4441-8a09-d4c8ae91e52c"
   ],
   "data": [
     {
@@ -3118,63 +3119,6 @@
       "title": "常轨脱离Creative"
     },
     {
-      "id": "197ad397-c7e0-4441-8a09-d4c8ae91e52c",
-      "vndbId": "v56650",
-      "updateDate": 1760246175.534,
-      "alias": [
-        "ライムライト・レモネードジャム"
-      ],
-      "description": "音乐、朋友和爱情。\n从遇见她的那一天起，世界就开始闪耀——\n\n冲波幸隆擅长贝斯，但从未属于过特定的乐队。\n他没有目标，也没有其他想做的事情。\n在漫无目的的音乐追求中，他偶然发现了一场街头表演，彻底改变了他单调的日常生活。\n\n站着一个女孩，Harumi Ena，用她完全的业余技巧，以歌唱和吉他弹奏的独奏表演挑战自己。\n\n幸隆目睹她街头表演的那一刻，他的平凡世界再次开始闪耀。\n\n[Translated from [url=https://www.yuzu-soft.com/products/lllj/index.html#story]official website[/url]]",
-      "tags": [
-        "高中生主角、音乐环境、乐器主、高中生女主、主角青梅竹马女主、歌手女主、主角表弟女主、器乐女主、Ojousama女主、转学生女主、音乐家女主、表弟、社交网络服务、打工、女牛仔"
-      ],
-      "playTimelines": [
-        [
-          1756738540,
-          1756738579,
-          38
-        ],
-        [
-          1759558315,
-          1759558329,
-          14
-        ],
-        [
-          1760246177,
-          1760246907,
-          75
-        ],
-        [
-          1760709659,
-          1760709666,
-          6
-        ]
-      ],
-      "expectedPlayHours": 0,
-      "lastPlay": 1760709666000,
-      "createDate": 1756738455771,
-      "releaseDate": 1758844800000,
-      "rating": 7,
-      "developer": "Yuzusoft",
-      "images": [
-        "https://t.vndb.org/sf/31/225931.jpg",
-        "https://t.vndb.org/sf/32/225932.jpg",
-        "https://t.vndb.org/sf/33/225933.jpg"
-      ],
-      "links": [
-        {
-          "name": "wikidata",
-          "url": "https://www.wikidata.org/wiki/Q134717512"
-        },
-        {
-          "name": "gamefaqs_game",
-          "url": "https://gamefaqs.gamespot.com/-/540367-"
-        }
-      ],
-      "cover": "https://t.vndb.org/cv/06/109906.jpg",
-      "title": "LimeLight Lemonade Jam 体验版"
-    },
-    {
       "id": "facc590c-49e0-46b7-9f69-ff9c0464eccc",
       "vndbId": "v1144",
       "bgmId": "513940",
@@ -3627,6 +3571,96 @@
       "links": [],
       "cover": "https://lain.bgm.tv/pic/cover/l/4a/27/300648_Hfr75.jpg",
       "title": "蔚蓝档案-Blue Archive-"
+    },
+    {
+      "id": "7640d519-501f-4765-aea1-b6e0510728a0",
+      "vndbId": "v56650",
+      "bgmId": "561526",
+      "updateDate": 1761322498.173,
+      "alias": [
+        "ライムライト・レモネードジャム"
+      ],
+      "description": "音乐、伙伴，还有恋爱。\n\n从遇见她的那天起，世界开始闪闪发光——\n\n【冲浪雪鹰】的贝斯技术高超，却从未加入过任何固定的乐队。\n\n他没有明确的目标，也找不到其他想做的事。\n\n就在这种漫无目的的音乐生活中，一场街头演出，\n\n彻底改变了【冲浪雪鹰】一成不变的日常。\n\n那是一个独自挑战弹唱的少女——【阳见惠凪】。\n\n她的吉他技术，几乎还是个新手。\n\n然而，从看到她演出的那一刻起，\n\n【冲浪雪鹰】的世界，再度绽放出了光芒。",
+      "tags": [
+        "ADV",
+        "黄油",
+        "瀬尾順",
+        "第二档Gal",
+        "校园",
+        "幼馴染",
+        "AVG",
+        "幼驯染",
+        "生肉",
+        "Yuzu-Soft",
+        "石原舞",
+        "天宮りつ",
+        "かずきふみ",
+        "乐队",
+        "纯爱",
+        "伞哥",
+        "瀬尾顺",
+        "GAL",
+        "R18",
+        "游戏",
+        "Windows",
+        "ゆずソフト",
+        "夏和小",
+        "2025",
+        "PC",
+        "さかき傘",
+        "废萌",
+        "Yuzusoft",
+        "柚子社",
+        "Galgame"
+      ],
+      "playTimelines": [
+        [
+          1761322189,
+          1761322229,
+          40
+        ],
+        [
+          1761322236,
+          1761322243,
+          6
+        ],
+        [
+          1761322259,
+          1761322263,
+          4
+        ],
+        [
+          1761322275,
+          1761322300,
+          25
+        ]
+      ],
+      "expectedPlayHours": 37.5,
+      "lastPlay": 1761322300000,
+      "createDate": 1761322032346,
+      "releaseDate": 1758844800000,
+      "rating": 7,
+      "developer": "Yuzusoft",
+      "images": [
+        "https://t.vndb.org/sf/31/225931.jpg",
+        "https://t.vndb.org/sf/32/225932.jpg",
+        "https://t.vndb.org/sf/33/225933.jpg",
+        "https://t.vndb.org/sf/65/230265.jpg",
+        "https://t.vndb.org/sf/66/230266.jpg",
+        "https://t.vndb.org/sf/67/230267.jpg"
+      ],
+      "links": [
+        {
+          "name": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q134717512"
+        },
+        {
+          "name": "gamefaqs_game",
+          "url": "https://gamefaqs.gamespot.com/-/540367-"
+        }
+      ],
+      "cover": "https://lain.bgm.tv/pic/cover/l/a2/88/561526_FGtAF.jpg",
+      "title": "LimeLight Lemonade Jam"
     }
   ]
 }
